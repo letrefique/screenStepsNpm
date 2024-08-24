@@ -1,0 +1,30 @@
+{
+  "name": "screen-steps",
+  "version": "0.0.1",
+  "description": "Capture events in page and exports as PDF format with screenshots and data('label,text,content,id,page etc...')",
+  "main": "./dist/index.js",
+  "modeule": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "eventHanler",
+    "scrrenshot",
+    "steps",
+    "record",
+    "export"
+  ],
+  "author": "LetrefiQue",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.2.4",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "primereact": "^10.8.2",
+    "react": "^18.3.1"
+  }
+}

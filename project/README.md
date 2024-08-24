@@ -1,0 +1,3 @@
+# Screenshot Recorder
+
+Capture events in page and take a screenshot every event occured in page then export screenshots as pdf with element data like id,tag,label,page etc...
