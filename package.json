@@ -5,6 +5,7 @@
   "main": "./dist/index.js",
   "modeule": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
+  "repository": {"url": "https://github.com/letrefique/screenStepsNpm.git"},
   "scripts": {
     "build": "tsup"
   },
